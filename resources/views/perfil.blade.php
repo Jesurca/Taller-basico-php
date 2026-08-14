@@ -23,8 +23,8 @@
             <div class="foto-wrapper">
                 <img src="https://via.placeholder.com/180" alt="Foto de perfil" class="foto-perfil">
             </div>
-            <h1>Tu Nombre Completo</h1>
-            <p class="subtitulo">Estudiante de Desarrollo de Software</p>
+            <h1>Jesús Urbiñez</h1>
+            <p class="subtitulo">Estudiante de Ingeneria de sistemas</p>
             <p class="descripcion">
                 Hola, soy una persona apasionada por la tecnología y el aprendizaje constante.
                 Me gusta crear proyectos que resuelvan problemas reales y seguir mejorando
@@ -42,7 +42,7 @@
                 </div>
                 <div class="info-item">
                     <span class="info-label">Correo</span>
-                    <span class="info-valor">tucorreo@ejemplo.com</span>
+                    <span class="info-valor">Jurbinez@unab.edu.co</span>
                 </div>
             </div>
 
