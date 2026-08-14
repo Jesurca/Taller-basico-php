@@ -10,14 +10,14 @@ Route::get('/perfil', function () {
     return view('perfil');
 });
 
-Route::get('/perfil/intereses', function () {
+Route::get('/intereses', function () {
     return view('intereses');
 });
 
-Route::get('/perfil/habilidades', function () {
+Route::get('/habilidades', function () {
     return view('habilidades');
 });
 
-Route::get('/perfil/metas', function () {
+Route::get('/metas', function () {
     return view('metas');
 });
